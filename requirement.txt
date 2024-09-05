@@ -1,0 +1,8 @@
+numba==0.57.1             
+numpy>=1.21.0             
+opencv-python>=4.5.3.56   
+matplotlib>=3.4.3        
+scienceplots==1.0.9     
+tqdm>=4.62.3              
+torch>=2.0.0             
+GPUtil>=1.4.0             

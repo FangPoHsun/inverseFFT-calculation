@@ -1,7 +1,8 @@
 # Inverse FFT Calculation
 This repository shows a simple demonstration of how to construct a inverse FFT model through pytorch!
 
-<img src="figs/M1_target7.png"     alt="Target Image"     width="40%">
+<img src="Figure/Process_flow.png"     alt="Process Flow">
+
 ##
 
 
